@@ -1,9 +1,9 @@
 
-# Section Recap
+# A Complete Data Science Project Using Multiple Regression -  Recap
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 12 and why they'll be important to you as a data scientist.
+Shew! Congratulations! You're really coming along! In this section, you conducted a full data-science pipeline from data acquisition through modelling and interpretation.
 
 ## Objectives
 You will be able to:
@@ -12,13 +12,21 @@ You will be able to:
 
 ## Key Takeaways
 
-The goal of section 12 was to give you some practice going through the end to end process of obtaining, scrubbing, exploring (EDA), and modeling a given data set to create a prediction. Some of the key takeaways include:
-* It's important to think about providing value from your data science projects - not just modeling efficiently. Most of the business value comes from asking the right questions and persuasively communicating the results, and much of the predi ctive value comes from thoughtful selection, cleanup and exploration of the data set.
+This section gave you an opportunity to review some of the wide-ranging skills you've acquired to date and conduct a full data science project! With that, you should have seen that a good data science process requires careful thought not just to technical details, but to the general structure and story behind the data itself. Indeed, substantial business value comes from asking the right questions and persuasively communicating the results. Similarly, even when modelling, much of the predictive value comes from thoughtful selection, and creative feature engineering through exploration of the data.
+
+To further summarize:  
+
 * The most common data science frameworks are CRISP-DM, KDD and OSEMiN
 * The process of finding, filtering and loading the appropriate data to answer a question is non-trivial
 * Decisions made in the data munging/scrubbing phase can have a huge impact on the accuracy of your predictions
 * Visualization is a key phase in EDA. 
-* A Kernel Density Estimation (KDE) plot can be very useful in getting a sense for visualizing the distribution of a column
-* A Joint plots can be very useful for bringing together multiple visualizations to (for example) check the linearity assumption between predictors and a target variable
-* It's important to "hold out" a subset of your data for testing (as opposed to training) so you can see how accurately it works for predicting "unknown data"
+* Analyzing Regression Models:
+    * Check p-values to determine whether features are significant
+    * Use Q-Q plots to check for normality
+    * Plot residuals against the target variable to check for homoscedasticity (and rule out heteroscedasticity)
+    * Use the Variance Inflation Factor to assess Multicollinearity between independent variables 
 
+
+## Summary
+
+Again, well done! You put a lot of your skills to work and went through a full process of collecting data, cleaning it, analyzing and using it to answer questions.
