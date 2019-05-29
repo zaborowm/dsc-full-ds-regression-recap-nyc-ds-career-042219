@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Shew! Congratulations! You're really coming along! In this section, you conducted a full data-science pipeline from data acquisition through modelling and interpretation.
+Shew! Congratulations! You're really coming along! In this section, you conducted a full data-science pipeline from data acquisition through modeling and interpretation.
 
 ## Objectives
 You will be able to:
@@ -12,7 +12,7 @@ You will be able to:
 
 ## Key Takeaways
 
-This section gave you an opportunity to review some of the wide-ranging skills you've acquired to date and conduct a full data science project! With that, you should have seen that a good data science process requires careful thought not just to technical details, but to the general structure and story behind the data itself. Indeed, substantial business value comes from asking the right questions and persuasively communicating the results. Similarly, even when modelling, much of the predictive value comes from thoughtful selection, and creative feature engineering through exploration of the data.
+This section gave you an opportunity to review some of the wide-ranging skills you've acquired to date and conduct a full data science project! With that, you should have seen that a good data science process requires careful thought not just to technical details, but to the general structure and story behind the data itself. Indeed, substantial business value comes from asking the right questions and persuasively communicating the results. Similarly, even when modeling, much of the predictive value comes from thoughtful selection, and creative feature engineering through exploration of the data.
 
 To further summarize:  
 
